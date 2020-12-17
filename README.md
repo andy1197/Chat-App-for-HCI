@@ -47,5 +47,6 @@ Firebase maintains a database that contains all json data of text-messages and e
 ![Firebase Database](https://i.imgur.com/f29I1os.png)
 The current database is registered and is called **chathci-2fe3a**, to gain permissions to access and use this database please contact the Author (located below). To create a new database, one must register with the app's bundle ID and create/place a "GoogleService-Info.plist" file created via Firebase. More information about registration can be found [here](https://firebase.google.com/docs/ios/setup).
 
-## Author
+## Authors
 Sudeep Raj - thesudeepraj@gmail.com
+Andy Wang - andywang1197@gmail.com
